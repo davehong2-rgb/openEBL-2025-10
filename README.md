@@ -99,22 +99,22 @@ https://qdot-nexus.phas.ubc.ca:25683/s/wKS48GJMTEAcLy7
 Scanning electron microscope images of some of the devices from this fabrication run were taken, and are available in the "SEMs" folder, and shown here:
 
 
-![SEM image – 1x2 splitter](./SEMs/UR_011.tif)
+![SEM image – 1x2 splitter](./SEMs/UR_011.jpg)
 
-![SEM image – 2x2 splitter](./SEMs/UR_012.tif)
+![SEM image – 2x2 splitter](./SEMs/UR_012.jpg)
 
-![SEM image – 3x3 splitter](./SEMs/UR_007.tif)
+![SEM image – 3x3 splitter](./SEMs/UR_007.jpg)
 
-![SEM image – subwavelength grating waveguides](./SEMs/UR_023.tif)
+![SEM image – subwavelength grating waveguides](./SEMs/UR_023.jpg)
 
-![SEM image – Bragg grating](./SEMs/UR_039.tif)
+![SEM image – Bragg grating](./SEMs/UR_039.jpg)
 
-![SEM image – Bragg grating contra directional coupler](./SEMs/UR_034.tif)
+![SEM image – Bragg grating contra directional coupler](./SEMs/UR_034.jpg)
 
 
-![SEM image – lithgraphy test structure](./SEMs/UR_026.tif)
+![SEM image – lithgraphy test structure](./SEMs/UR_026.jpg)
 
-![SEM image – lithgraphy test structure](./SEMs/UR_027.tif)
+![SEM image – lithgraphy test structure](./SEMs/UR_027.jpg)
 
 
 <!-- start-link -->
